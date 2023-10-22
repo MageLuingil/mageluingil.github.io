@@ -1,0 +1,3 @@
+[submodule "comf"]
+	path = comf
+	url = git@github.com:MageLuingil/comf.git
